@@ -1,2 +1,3 @@
-def my_hash {"my_name" => "Morgan Matney"}
+def my_hash
+  my_hash = {"my_name" => "Morgan Matney"}
 end
